@@ -44,6 +44,10 @@ Explore the dungeon, defeat all enemies, and reach the final room to win.
 - Enter the number of your choice and press Enter.
 - Type carefully - invalid input will prompt you to try again.
 
+## Screenshot
+<img width="415" height="817" alt="Screenshot 2025-10-02 at 8 07 48 PM" src="https://github.com/user-attachments/assets/14ea3b6d-0c5d-497d-a720-13965d8bfa63" />
+
+
 ## How to Run
 1. Make sure you have **Java JDK installed** (version 17+ recommended).  
    Check installation with:

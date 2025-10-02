@@ -50,3 +50,9 @@ Explore the dungeon, defeat all enemies, and reach the final room to win.
    ```bash
    java -version
    javac -version
+2. Compile all Java files:
+    ```bash
+    javac *.java
+3. Run the game:
+    ```bash
+    java Main
